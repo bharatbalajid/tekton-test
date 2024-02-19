@@ -1,4 +1,4 @@
-# Dockerfile for python app 123424563
+# Dockerfile for python app test
 FROM python:3.8-slim
 WORKDIR /app
 COPY . .
