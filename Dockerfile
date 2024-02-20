@@ -1,4 +1,4 @@
-# Dockerfile for python app test12-tekton
+# Dockerfile for python app test12-tekton-test
 FROM python:3.8-slim
 WORKDIR /app
 COPY . .
